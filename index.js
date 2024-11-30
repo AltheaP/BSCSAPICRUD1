@@ -21,7 +21,7 @@ app.use(express.json()); // use this in fetch APi for CRUD
 const connection = mysql.createConnection({
     host: "bmix5lkljpjozaesn25j-mysql.services.clever-cloud.com",
     user: "ucxd8z4ufrksc4cm",
-    password: "Vox25CL3AY3bRFPdeex1",
+    password: "pTZyaV36KWhUUaIkL3mE",
     database: "bmix5lkljpjozaesn25j",
 });
 
